@@ -1,5 +1,5 @@
 
-# DRAFT: Code of Conduct - WIP
+# Code of Conduct
 
 ## Our Pledge
 
